@@ -5,3 +5,7 @@ Este projeto trata da construção de um braço robótico utilizando Arduino e c
 # Levantamento dos materiais necessários para a construção:
     
     https://docs.google.com/spreadsheets/d/1jzoEmzvzjKpZD87IFWD4oKzALD8bMHgYF7cRfeXFDyY/edit?gid=0#gid=0
+
+Aplicativo móvel apk.: 
+
+    https://mega.nz/file/l24iGJBK#wqlsnq-m5l0Q9ztgOR09uAL72Mt-LS_sWrjJOXX6clU
