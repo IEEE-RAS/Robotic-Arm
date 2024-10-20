@@ -9,3 +9,12 @@ Este projeto trata da construção de um braço robótico utilizando Arduino e c
 # Aplicativo móvel apk.: 
 
     https://mega.nz/file/l24iGJBK#wqlsnq-m5l0Q9ztgOR09uAL72Mt-LS_sWrjJOXX6clU
+
+
+
+#Acompanhamento das reuniões:
++ **Primeira Reunião** – 23 de Setembro de 2024
+Na primeira reunião, foi realizada uma apresentação e discussão sobre o início do desenvolvimento do projeto. A meta estabelecida foi a verificação dos kits de impressão, considerando um formato editável, como OpenSCAD ou FreeCAD, ou o STL recomendado no vídeo.
+
++ **Segunda Reunião** – 6 de Outubro de 2024
+Durante a segunda reunião, optamos pelo STL recomendado no vídeo. A meta definida foi realizar o levantamento dos materiais necessários para o desenvolvimento do projeto.
