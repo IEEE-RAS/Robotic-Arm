@@ -18,3 +18,18 @@ Na primeira reunião, foi realizada uma apresentação e discussão sobre o iní
 
 + **Segunda Reunião** – 6 de Outubro de 2024:
 Durante a segunda reunião, optamos pelo STL recomendado no vídeo. A meta definida foi realizar o levantamento dos materiais necessários para o desenvolvimento do projeto.
+
+
+### Funcionamento
+
+1. **Conecte o cabo de alimentação** ao equipamento. A fonte utilizada deve fornecer **5 V e 3 A**.
+
+2. Ao ser ligado, o braço realizará a **inicialização**, deslocando-se automaticamente para sua posição inicial, permanecendo **totalmente levantado**.
+
+3. Em seguida, **conecte o equipamento ao desktop** por meio do cabo de comunicação.
+
+4. **Abra o aplicativo de controle** no computador.
+
+5. No aplicativo, **selecione a porta COM correspondente ao equipamento**.
+
+6. Após selecionar a porta correta. O equipamento estará pronto para ser controlado pelo aplicativo.
